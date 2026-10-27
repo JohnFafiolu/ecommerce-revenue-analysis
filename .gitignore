@@ -1,0 +1,30 @@
+
+# Raw datasets
+data/*
+!data/.gitkeep
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+
+# Database credentials and local configuration
+*.conf
+*.ini
+.pgpass
+
+# Temporary and exported files
+*.tmp
+*.log
+*.bak
+*.csv
+*.xlsx
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
