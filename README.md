@@ -100,6 +100,23 @@ Based on the observed patterns, the following actions are worth investigating:
 
 These are recommendations for further investigation, not proven causes or guaranteed outcomes. Their impact should be evaluated using additional data and controlled experiments where appropriate.
 
+## Analysis Files and Results
+
+| Analysis | SQL Query | Results |
+|---|---|---|
+| Monthly Sales | [View SQL](sql/01_monthly_sales.sql) | [View CSV](results/monthly_sales.csv) |
+| Category Sales | [View SQL](sql/02_category_sales.sql) | [View CSV](results/category_sales.csv) |
+| Customer Segments | [View SQL](sql/05_customer_segments.sql) | [View CSV](results/customer_segments.csv) |
+| Sales by State | [View SQL](sql/06_state_sales.sql) | [View CSV](results/state_sales.csv) |
+| Category Repeat Purchase | [View SQL](sql/07_category_repeat_purchase.sql) | [View CSV](results/category_repeat_purchase.csv) |
+
+### Additional SQL Analysis
+
+- [Data Validation](sql/00_data_validation.sql)
+- [Repeat Purchase Rate](sql/03_repeat_purchase_rate.sql)
+- [Customer Cohort Analysis](sql/04_customer_cohorts.sql)
+- [Final Validation](sql/08_final_validation.sql)
+
 ## Methodology
 
 1. Validated table counts, order statuses, and key identifiers.
