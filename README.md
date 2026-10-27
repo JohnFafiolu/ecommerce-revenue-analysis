@@ -86,6 +86,20 @@ São Paulo accounted for approximately 38.3% of total merchandise sales.
 
 Home Appliances had a repeat-purchase rate of **7.27%** among 688 customers. Arts & Crafts showed 9.52%, but this was based on only 21 customers and should be interpreted cautiously.
 
+## Business Recommendations
+
+Based on the observed patterns, the following actions are worth investigating:
+
+1. **Investigate customer retention:** With a 3.00% repeat-purchase rate within the observed dataset, the business could examine why customers do not return and test post-purchase communication, loyalty incentives, or targeted follow-up campaigns.
+
+2. **Study high-performing product categories:** Health & Beauty and Watches & Gifts generated the highest merchandise sales among the categories analyzed. The business could investigate their sales drivers, margins, inventory requirements, and opportunities for sustainable growth.
+
+3. **Evaluate geographic concentration:** São Paulo contributed approximately 38.3% of merchandise sales. The business could assess whether this concentration reflects customer demand, seller availability, delivery coverage, or other market factors before deciding where to expand.
+
+4. **Measure retention over time:** Cohort results suggest differences in repeat purchasing across customer acquisition months. The business should account for differences in observation time before comparing cohorts or evaluating retention initiatives.
+
+These are recommendations for further investigation, not proven causes or guaranteed outcomes. Their impact should be evaluated using additional data and controlled experiments where appropriate.
+
 ## Methodology
 
 1. Validated table counts, order statuses, and key identifiers.
