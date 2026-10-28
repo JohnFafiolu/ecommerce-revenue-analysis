@@ -86,6 +86,11 @@ São Paulo accounted for approximately 38.3% of total merchandise sales.
 
 Home Appliances had a repeat-purchase rate of **7.27%** among 688 customers. Arts & Crafts showed 9.52%, but this was based on only 21 customers and should be interpreted cautiously.
 
+## Power BI Dashboard
+
+The dashboard summarizes merchandise sales, monthly revenue trends, product category performance, sales by state, and customer purchasing behaviour.
+
+![Brazilian E-Commerce Revenue Analysis Dashboard](images/Screenshot2026-10-28202832.png)
 ## Business Recommendations
 
 Based on the observed patterns, the following actions are worth investigating:
