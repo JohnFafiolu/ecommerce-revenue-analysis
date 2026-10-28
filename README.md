@@ -90,7 +90,7 @@ Home Appliances had a repeat-purchase rate of **7.27%** among 688 customers. Art
 
 The dashboard summarizes merchandise sales, monthly revenue trends, product category performance, sales by state, and customer purchasing behaviour.
 
-![Brazilian E-Commerce Revenue Analysis Dashboard](images/Screenshot2026-10-28202832.png)
+![Brazilian E-Commerce Revenue Analysis Dashboard](image/Screenshot2026-10-28202832.png)
 ## Business Recommendations
 
 Based on the observed patterns, the following actions are worth investigating:
